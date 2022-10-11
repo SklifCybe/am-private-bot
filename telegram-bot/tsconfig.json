@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "CommonJS",
+        "sourceMap": true,
+        "rootDir": "src",
+        "resolveJsonModule": true,
+        "outDir": "dist"
+    },
+    "include": [
+        "src/"
+, "src/notifications"    ]
+}
